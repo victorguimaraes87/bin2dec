@@ -1,5 +1,5 @@
 # bin2dec
-This a simple vue.js app that convert one binary numbet to decimal.
+This a simple vue.js app that convert one binary number to decimal.
 ## Project setup
 ```
 npm install
